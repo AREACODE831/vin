@@ -1,13 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Give+You+Glory&family=Oswald&display=swap');
+
 html {
-  background-color: #eee;
+  background-color: #F2F2F2;
   font-family: sans-serif;
 }
-
+body{
+  background-color: #F2F2F2;
+}
 section {
   padding: 1em;
   margin-top: 10%;
+
 }
 
+#description{
+  width:1100px;
+  font-size:20px;
+  margin-left:50px;
+  display:absolute;
+  text-align:left;
+}
 .lead {
   font-weight: 600;
   color: #777;
