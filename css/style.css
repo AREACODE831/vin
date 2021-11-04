@@ -320,14 +320,14 @@ fieldset {
       padding: 10px 20px;
       display: block;
       position: relative;
-      color: #212529; }
+      color: #6C57F2; }
       .site-mobile-menu .site-nav-wrap a:hover {
-        color: #007bff; }
+        color: #6C57F2; }
     .site-mobile-menu .site-nav-wrap li {
       position: relative;
       display: block; }
       .site-mobile-menu .site-nav-wrap li.active > a {
-        color: #007bff; }
+        color: #6C57F2 }
     .site-mobile-menu .site-nav-wrap .arrow-collapse {
       position: absolute;
       right: 0px;
