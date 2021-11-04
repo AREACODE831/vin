@@ -77,6 +77,13 @@ fieldset {
   text-align: center;
   position:relative;
 }
+#hightlighted3{
+  font-size: 25px;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  position:relative;
+  padding-top:0px;
+}
 #description{
   width:1000px;
   font-size:18px;
