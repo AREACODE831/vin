@@ -85,10 +85,21 @@ fieldset {
   text-align:left;
   display: flex;
 }
+
+#description3{
+  font-size:18px;
+  margin-left:50px;
+  display:absolute;
+  text-align:left;
+  display: flex;
+  padding-left:120px;
+  padding-right:120px;
+  color: black;
+}
+
 #description2{
   font-size:18px;
   padding:15px;
-
   margin-left:300px;
   display:absolute;
   text-align:left;
