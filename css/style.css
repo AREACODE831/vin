@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Give+You+Glory&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=GFS+Didot&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=GFS+Didot&family=Space+Grotesk&display=swap');
 
 body {
-  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+font-family: 'Space Grotesk', sans-serif;, serif; -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   /* background-color: #C1C9D9; */
   background-color: #F2F2F2;
   /* height: 200vh; */
@@ -36,6 +38,44 @@ body {
   body.offcanvas-menu:before {
     opacity: 1;
     visibility: visible; }
+
+
+    .info-container{
+      font-family: 'GFS Didot', serif;
+      font-size:16px;
+       display: inline-block;
+       vertical-align: top;
+       padding: 0 200px 100px 200px;
+       -moz-box-sizing: border-box;
+       -webkit-box-sizing: border-box;
+       box-sizing: border-box;
+    }
+
+    .info-container p{
+        padding: 0;
+        margin: 0 0 10px;
+    }
+    .info-container h1{
+      font-family: 'GFS Didot', serif;
+      font-size:20px;
+      padding-top: 10px;
+      margin: 0 0 10px;
+      font-weight: bold;
+    }
+    .responsive {
+      width: 100%;
+      height: auto;
+    }
+    .responsive1 {
+      width: 70%;
+      height: auto;
+    }
+    .responsive2 {
+      width: 40%;
+      height: auto;
+    }
+
+
 
 p {
   color: black;
